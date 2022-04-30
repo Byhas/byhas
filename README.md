@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Byhas
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...python
-- 📫 How to reach me ...byhasdayoub@gmail.com
+- 👀 I’m interested in ...python AI
+- 🌱 I’m currently learning ...python & AI
+- 💞️ I’m looking to collaborate on ...python & AI
+- 📫 How to reach me ...byhasdayoub@gmail.com +963996968677
 
 <!---
 Byhas/Byhas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
